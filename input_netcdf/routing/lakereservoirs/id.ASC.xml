@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata xml:lang="en"><Esri><CreaDate>20220609</CreaDate><CreaTime>08565000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToASCII" Date="20220609" Time="085650">RasterToASCII lakeresID P:\watmodel\CWATM\cwatm_input_1km_ebro\input_netcdf\routing\lakereservoirs\id.ASC</Process></lineage></DataProperties></Esri></metadata>
